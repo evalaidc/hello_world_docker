@@ -1,5 +1,8 @@
+## Purpose
+
+The purpose of this repository was to practice Docker CLI and the process of making images to create a microservice.
 
 
-source:
 
-https://www.youtube.com/watch?v=UWARTLO7TNQ
+
+sources: https://www.youtube.com/watch?v=UWARTLO7TNQ
